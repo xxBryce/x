@@ -13,7 +13,7 @@ function newhome() {
       <input type="password" id="xpass" name="xpass" required=""></input>
       <label>Password</label>
       </div>
-    <a onClick="alert('coming soon');">
+    <a onClick={alert('coming soon')}>
       <span></span>
       <span></span>
       <span></span>
