@@ -12,7 +12,7 @@ html {
 
 body {
   background-color: var(--backgroundColor);
-  color: white;
+  color: white !important;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
